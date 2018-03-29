@@ -1,0 +1,8 @@
+{
+    "name": "jenssegers/ddd-ok-cars",
+    "autoload": {
+        "psr-4": {
+            "DDD\\OkeCars\\": "src"
+        }
+    }
+}
